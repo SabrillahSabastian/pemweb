@@ -49,7 +49,7 @@ body{
     font-size: 15px;
   }
   .number, .empty{
-    background-color: #eaedef;
+    background-color: #3e5363b4;
   }
   .number, .operator{
     cursor: pointer;
@@ -62,19 +62,19 @@ body{
   }
   button:nth-child(4){
     font-size: 20px;
-    background-color: #20b2aa;
+    background-color: #ff7300;
   }
   button:nth-child(8){
     font-size: 20px;
-    background-color: #ffa500;
+    background-color: #ff7301;
   }
   button:nth-child(12){
     font-size: 20px;
-    background-color: #f08080;
+    background-color: #ff7300fc;
   }
   button:nth-child(16){
     font-size: 20px;
-    background-color: #7d93e0;
+    background-color: #ff7300;
   }
   button:nth-child(20){
     font-size: 20px;
